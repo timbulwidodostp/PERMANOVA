@@ -1,6 +1,8 @@
 # PERMANOVA
 Multivariate Analysis of Variance (MANOVA) based on distances Use PERMANOVA With (In) R Software
 
+https://www.youtube.com/watch?v=Cuw1sAMpiJs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
